@@ -1,8 +1,16 @@
 import React from 'react';
 // import logo from './logo.svg';
 import './App.css';
-import './basic.styl'
+import './basic.styl';
+import axios from "axios";
+import qs from "qs";
+import url from "./serverAPI.config"
 function App() {
+  let data={jid:'23431',pkg_name:'134',limit:100};
+  // console.log(qs.s);
+  let a = axios.get(url.getInfo,{params:qs.stringify(data)});
+  let b = axios.post(url.getInfo,qs.stringify(data));
+  console.log(a);
   return (
     <div className="App">
       
@@ -21,7 +29,7 @@ function App() {
         </a>
       </header> */}
 
-      
+
       
       <header />
     </div>
