@@ -6,11 +6,12 @@ import axios from "axios";
 import qs from "qs";
 import url from "./serverAPI.config"
 function App() {
-  let data={jid:'23431',pkg_name:'134',limit:100};
+  // let data={jid:'23431',pkg_name:'134',limit:100};
   // console.log(qs.s);
-  let a = axios.get(url.getInfo,{params:qs.stringify(data)});
-  let b = axios.post(url.getInfo,qs.stringify(data));
-  console.log(a);
+  // let a = axios.get(url.getInfo,{params:qs.stringify(data)});
+  // let b = axios.post(url.getInfo,qs.stringify(data));
+  // console.log(a);
+  console.log(process.env.NODE_ENV);
   return (
     <div className="App">
       
