@@ -14,7 +14,7 @@ class Header extends Component {
                <div className="banner">
                     <div className="banner-main">
                         <div className="title flex-justify-center">
-                            雷神手机清理管家
+                            金刚超速手机保卫者
                         </div>
                         <div className="subtitle flex-justify-center flex-items-center">
                             <i>简洁</i>
@@ -24,7 +24,7 @@ class Header extends Component {
                             <i>高效</i>
                         </div>
                         <div className="flex-justify-center">
-                            <a href="https://cdn.suapp.mobi/app/app-sevenstar-release_leishen.apk" className="download flex-items-center flex-justify-center">
+                            <a href="https://cdn.suapp.mobi/app/app-sevenstar-release_jingang.apk" className="download flex-items-center flex-justify-center">
                                 <img src={require("../assets/images/ic_android.png")} alt="" width="36" height="36"/>
                                 <span>Andorid版下载</span>
                             </a>
