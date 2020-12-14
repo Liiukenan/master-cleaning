@@ -70,7 +70,7 @@
   "scripts": {
     "start": "node scripts/start.js",
     "build": "node scripts/build.js",
-    "build-test": "node scripts/build.js",
+    "build-test": "node scripts/buildtest.js",
     "test": "node scripts/test.js"
   },
   "eslintConfig": {

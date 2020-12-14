@@ -13,9 +13,9 @@ class Home extends Component {
     render() {
         return (
             <div className="home">
-                <Element name="firstInsideContainer">
-                <Header />
-                </Element>
+                    <Element name="firstInsideContainer">
+                        <Header />
+                    </Element>
                     <Main />
                     <Clear />
                     <Footer />
