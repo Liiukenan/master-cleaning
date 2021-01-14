@@ -14,17 +14,17 @@ class Header extends Component {
                <div className="banner">
                     <div className="banner-main">
                         <div className="title flex-justify-center">
-                            金刚超速手机保卫者
+                            樱桃超炫来电秀
                         </div>
                         <div className="subtitle flex-justify-center flex-items-center">
-                            <i>简洁</i>
+                            <i>酷炫</i>
                             <span></span>
-                            <i>极速</i>
+                            <i>有趣</i>
                             <span></span>
-                            <i>高效</i>
+                            <i>个性</i>
                         </div>
                         <div className="flex-justify-center">
-                            <a href="https://cdn.suapp.mobi/app/app-sevenstar-release_jingang.apk" className="download flex-items-center flex-justify-center">
+                            <a href="http://cdn.suapp.mobi/app/sevenstar-t26-A0-vc12-vn1.0.4664.apk" className="download flex-items-center flex-justify-center">
                                 <img src={require("../assets/images/ic_android.png")} alt="" width="36" height="36"/>
                                 <span>Andorid版下载</span>
                             </a>
