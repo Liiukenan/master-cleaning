@@ -8,7 +8,7 @@ function nav(props) {
                     <div className="content flex-between">
                         <div className="left flex-items-center">
                         <img src={require("../assets/images/logo.png")} alt="" width="48" height="48"/> 
-                            <span className="fs-30 ml-10">樱桃超炫来电秀</span>
+                            <span className="fs-30 ml-10">星秀酷炫来电秀</span>
                             <div className="label fs-18">让手机来电更绚丽</div>
                         </div>
                         <div className="right flex-items-center">
