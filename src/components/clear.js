@@ -17,9 +17,9 @@ class Clear extends Component {
                 width="104"
                 height="104"
               />
-              <div className="title">设置来电秀</div>
+              <div className="title">一键抠图</div>
               <div className="paragraph">
-                来电时的来电秀不再单一，不仅有铃声还有画面
+                一键抠出，让用户更快速的切换P图选择
               </div>
             </div>
             <div className="right ">
@@ -45,8 +45,8 @@ class Clear extends Component {
                 width="104"
                 height="104"
               />
-              <div className="title">设置壁纸</div>
-              <div className="paragraph">手机壁纸过于单调，为何不换张个性壁纸，海量壁纸任你选</div>
+              <div className="title">海量创意</div>
+              <div className="paragraph">收录海量创意模板，让P图换装更简单</div>
             </div>
           </div>
         </div>
@@ -59,8 +59,8 @@ class Clear extends Component {
                 width="104"
                 height="104"
               />
-              <div className="title">换铃声</div>
-              <div className="paragraph">换个铃声，换个心情，总有适合你的一款专属铃声</div>
+              <div className="title">P图换装</div>
+              <div className="paragraph">快捷智能替换人像，做朋友圈最靓的人</div>
             </div>
             <div className="right">
               <img src={require('../assets/images/phone_boost.png')} alt="" />
