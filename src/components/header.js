@@ -14,7 +14,7 @@ class Header extends Component {
                <div className="banner">
                     <div className="banner-main">
                         <div className="title flex-justify-center">
-                            秀我P图
+                            简变P图
                         </div>
                         <div className="subtitle flex-justify-center flex-items-center">
                             <i>轻松</i>
