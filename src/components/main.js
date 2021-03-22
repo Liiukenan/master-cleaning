@@ -12,18 +12,18 @@ class Main extends Component {
                 <div className="title-icon flex-between flex-items-center">
                         <div className="flex-column flex-items-center">
                             <img src={require("../assets/images/ic_boost.png")} alt="" width="116" height="116"/>
-                            <div className="subtitle">一键抠图</div>
-                            <div className="paragraph">一键抠出人像</div>
+                            <div className="subtitle">Wifi加速</div>
+                            <div className="paragraph">提升数据传输速度</div>
                         </div>
                         <div className="flex-column flex-items-center">
                             <img src={require("../assets/images/ic_rubbishclean.png")} alt="" width="116" height="116"/>
-                            <div className="subtitle">海量创意</div>
-                            <div className="paragraph">用不完的创意模板</div>
+                            <div className="subtitle">防蹭网</div>
+                            <div className="paragraph">拒绝蹭网</div>
                         </div>
                         <div className="flex-column flex-items-center">
                             <img src={require("../assets/images/ic_wechatclean.png")} alt="" width="116" height="116"/>
-                            <div className="subtitle">P图换装</div>
-                            <div className="paragraph">快捷替换人像</div>
+                            <div className="subtitle">网络测速</div>
+                            <div className="paragraph">了解网络情况</div>
                         </div>
                 </div>
                 </div>

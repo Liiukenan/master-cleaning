@@ -17,9 +17,9 @@ class Clear extends Component {
                 width="104"
                 height="104"
               />
-              <div className="title">一键抠图</div>
+              <div className="title">Wi-Fi加速</div>
               <div className="paragraph">
-                一键抠出，让用户更快速的切换P图选择
+                优化Wi-Fi，提升数据传输速度
               </div>
             </div>
             <div className="right ">
@@ -45,8 +45,8 @@ class Clear extends Component {
                 width="104"
                 height="104"
               />
-              <div className="title">海量创意</div>
-              <div className="paragraph">收录海量创意模板，让P图换装更简单</div>
+              <div className="title">防蹭网</div>
+              <div className="paragraph">扫码联网设备，拒绝蹭网</div>
             </div>
           </div>
         </div>
@@ -59,8 +59,8 @@ class Clear extends Component {
                 width="104"
                 height="104"
               />
-              <div className="title">P图换装</div>
-              <div className="paragraph">快捷智能替换人像，做朋友圈最靓的人</div>
+              <div className="title">网络测速</div>
+              <div className="paragraph">了解当前网络的下载速度</div>
             </div>
             <div className="right">
               <img src={require('../assets/images/phone_boost.png')} alt="" />
