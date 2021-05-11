@@ -18,18 +18,18 @@ class Footer extends Component {
                 width="32"
                 height="32"
               />
-              <span>巨牛内存管家</span>
+              <span>WIFI连连看</span>
             </div>
             <div className="right flex-items-center">
               <Link to="/">首页</Link>
               <span></span>
               <Link to="/about">关于我们</Link>
               <span></span>
-              <a href="http://bj-zlb.oss-cn-beijing.aliyuncs.com/static_html/ncgj/agreement.html">
+              <a href="http://bj-zlb.oss-cn-beijing.aliyuncs.com/static_html/llk/agreement.html">
                 服务协议
               </a>
               <span></span>
-              <a href="http://bj-zlb.oss-cn-beijing.aliyuncs.com/static_html/ncgj/privacy_policy.html">
+              <a href="http://bj-zlb.oss-cn-beijing.aliyuncs.com/static_html/llk/privacy_policy.html">
                 隐私政策
               </a>
             </div>

@@ -17,7 +17,7 @@ class About extends Component {
               width="48"
               height="48"
             />
-            <h3 className="logo">巨牛内存管家</h3>
+            <h3 className="logo">WIFI连连看</h3>
           </div>
           <div className="title">关于我们</div>
           <p className="content">

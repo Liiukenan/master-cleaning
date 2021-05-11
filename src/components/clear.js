@@ -17,9 +17,9 @@ class Clear extends Component {
                 width="104"
                 height="104"
               />
-              <div className="title">垃圾清理</div>
+              <div className="title">网络体验</div>
               <div className="paragraph">
-              云端策略，智能清理手机里的垃圾
+              全面WIFI安全检查，了解网络状况
               </div>
             </div>
             <div className="right ">
@@ -42,13 +42,13 @@ class Clear extends Component {
             </div>
             <div className="left flex-column flex-justify-center">
               <img
-                src={require('../assets/images/ic_wechatclean_white.png')}
+                src={require('../assets/images/ic_bost_white.png')}
                 alt=""
                 width="104"
                 height="104"
               />
-              <div className="title">网络分析</div>
-              <div className="paragraph">全面优化网络环境，保护上网安全</div>
+              <div className="title">防蹭网</div>
+              <div className="paragraph">扫码联网设备，拒绝蹭网</div>
             </div>
           </div>
         </div>
@@ -56,13 +56,14 @@ class Clear extends Component {
           <div className="article flex-between">
             <div className="left flex-column flex-justify-center">
               <img
-                src={require('../assets/images/ic_bost_white.png')}
+                
+                src={require('../assets/images/ic_wechatclean_white.png')}
                 alt=""
                 width="104"
                 height="104"
               />
-              <div className="title">手机杀毒</div>
-              <div className="paragraph">每日更新病毒库，精准识别病毒威胁</div>
+              <div className="title">网络测速</div>
+              <div className="paragraph">了解当前网络的下载速度</div>
             </div>
             <div className="right">
               <img src={require('../assets/images/phone_boost.png')} alt="" width="340"/>
