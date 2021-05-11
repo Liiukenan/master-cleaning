@@ -13,19 +13,19 @@ function nav(props) {
               width="48"
               height="48"
             />
-            <span className="fs-30 ml-10">5G网络精灵</span>
-            <div className="label fs-18">畅享极速上网</div>
+            <span className="fs-30 ml-10">巨牛内存管家</span>
+            <div className="label fs-18">你的手机内存管家</div>
           </div>
           <div className="right flex-items-center">
             <Link to="/">首页</Link>
             <span></span>
             <Link to="/about">关于我们</Link>
             <span></span>
-            <a href="http://bj-zlb.oss-cn-beijing.aliyuncs.com/static_html/wljl/agreement.html">
+            <a href="http://bj-zlb.oss-cn-beijing.aliyuncs.com/static_html/ncgj/agreement.html">
                 服务协议
               </a>
               <span></span>
-              <a href="http://bj-zlb.oss-cn-beijing.aliyuncs.com/static_html/wljl/privacy_policy.html">
+              <a href="http://bj-zlb.oss-cn-beijing.aliyuncs.com/static_html/ncgj/privacy_policy.html">
                 隐私政策
               </a>
           </div>
