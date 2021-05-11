@@ -13,7 +13,7 @@ function nav(props) {
               width="48"
               height="48"
             />
-            <span className="fs-30 ml-10">5G快连伴侣</span>
+            <span className="fs-30 ml-10">5G网络精灵</span>
             <div className="label fs-18">畅享极速上网</div>
           </div>
           <div className="right flex-items-center">
@@ -21,13 +21,13 @@ function nav(props) {
             <span></span>
             <Link to="/about">关于我们</Link>
             <span></span>
-            <a href="http://bj-zlb.oss-cn-beijing.aliyuncs.com/static_html/klbl/agreement.html">
-              服务协议
-            </a>
-            <span></span>
-            <a href="http://bj-zlb.oss-cn-beijing.aliyuncs.com/static_html/klbl/privacy_policy.html">
-              隐私政策
-            </a>
+            <a href="http://bj-zlb.oss-cn-beijing.aliyuncs.com/static_html/wljl/agreement.html">
+                服务协议
+              </a>
+              <span></span>
+              <a href="http://bj-zlb.oss-cn-beijing.aliyuncs.com/static_html/wljl/privacy_policy.html">
+                隐私政策
+              </a>
           </div>
         </div>
       </header>
