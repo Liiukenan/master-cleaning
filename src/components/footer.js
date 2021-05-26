@@ -35,7 +35,7 @@ class Footer extends Component {
             </div>
           </div>
           <div className="copyright">
-            Copyright(C)2020-2021 北京微蜜友网络科技有限公司
+            Copyright(C)2020-2021 北京铂讯悦动科技有限公司
           </div>
         </div>
       </div>
