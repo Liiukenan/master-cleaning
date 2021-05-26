@@ -14,7 +14,7 @@ class Header extends Component {
                <div className="banner">
                     <div className="banner-main">
                         <div className="title flex-justify-center">
-                            WIFI连连看
+                            随心连WIFI
                         </div>
                         <div className="subtitle flex-justify-center flex-items-center">
                             {/* <i>轻松</i>

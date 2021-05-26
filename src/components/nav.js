@@ -13,7 +13,7 @@ function nav(props) {
               width="48"
               height="48"
             />
-            <span className="fs-30 ml-10">WIFI连连看</span>
+            <span className="fs-30 ml-10">随心连WIFI</span>
             <div className="label fs-18">一键连接网络世界</div>
           </div>
           <div className="right flex-items-center">
@@ -21,11 +21,11 @@ function nav(props) {
             <span></span>
             <Link to="/about">关于我们</Link>
             <span></span>
-            <a href="http://bj-zlb.oss-cn-beijing.aliyuncs.com/static_html/llk/agreement.html">
+            <a href="http://bj-zlb.oss-cn-beijing.aliyuncs.com/static_html/sxl/agreement.html">
                 服务协议
               </a>
               <span></span>
-              <a href="http://bj-zlb.oss-cn-beijing.aliyuncs.com/static_html/llk/privacy_policy.html">
+              <a href="http://bj-zlb.oss-cn-beijing.aliyuncs.com/static_html/sxl/privacy_policy.html">
                 隐私政策
               </a>
           </div>

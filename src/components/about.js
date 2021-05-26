@@ -17,11 +17,11 @@ class About extends Component {
               width="48"
               height="48"
             />
-            <h3 className="logo">WIFI连连看</h3>
+            <h3 className="logo">随心连WIFI</h3>
           </div>
           <div className="title">关于我们</div>
           <p className="content">
-            WiFi连连看是我们推出的一款Wi-Fi管理工具，帮助用户轻松优化与管理Wi-Fi。主要功能有WiFi优化、WiFi管理、网络测速、防蹭网。
+            随心连WIFI是我们推出的一款Wi-Fi管理工具，帮助用户轻松优化与管理Wi-Fi。主要功能有WiFi优化、WiFi管理、网络测速、防蹭网。
           </p>
           <div className="title">联系我们</div>
           <p className="content">名称：北京微蜜友网络科技有限公司</p>
