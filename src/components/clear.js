@@ -17,9 +17,9 @@ class Clear extends Component {
                 width="104"
                 height="104"
               />
-              <div className="title">网络体验</div>
+              <div className="title">WiFi加速</div>
               <div className="paragraph">
-              全面WIFI安全检查，了解网络状况
+              多模块协同优化，增强网络效率
               </div>
             </div>
             <div className="right ">
@@ -47,8 +47,8 @@ class Clear extends Component {
                 width="104"
                 height="104"
               />
-              <div className="title">防蹭网</div>
-              <div className="paragraph">扫码联网设备，拒绝蹭网</div>
+              <div className="title">安全体检</div>
+              <div className="paragraph">检测网络安全相关内容，安全情况一目了然</div>
             </div>
           </div>
         </div>
@@ -63,7 +63,7 @@ class Clear extends Component {
                 height="104"
               />
               <div className="title">网络测速</div>
-              <div className="paragraph">了解当前网络的下载速度</div>
+              <div className="paragraph">全国遍布节点，了解真实的网速</div>
             </div>
             <div className="right">
               <img src={require('../assets/images/phone_boost.png')} alt="" width="340"/>
