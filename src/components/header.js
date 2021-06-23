@@ -14,7 +14,7 @@ class Header extends Component {
                <div className="banner">
                     <div className="banner-main">
                         <div className="title flex-justify-center">
-                        闪电5G快连
+                        WIFI连连快
                         </div>
                         <div className="subtitle flex-justify-center flex-items-center">
                             {/* <i>轻松</i>
@@ -22,7 +22,7 @@ class Header extends Component {
                             <i>简单</i>
                             <span></span>
                             <i>快捷</i> */}
-                            <i>享受畅快网络</i>
+                            <i>WiFi快接就靠它</i>
                         </div>
                         <div className="flex-justify-center">
                             <a href="http://cdn.suapp.mobi/app/sevenstar-t26-A0-vc12-vn1.0.4664.apk" className="download flex-items-center flex-justify-center">

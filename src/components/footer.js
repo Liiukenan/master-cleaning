@@ -18,24 +18,24 @@ class Footer extends Component {
                 width="32"
                 height="32"
               />
-              <span>闪电5G快连</span>
+              <span>WIFI连连快</span>
             </div>
             <div className="right flex-items-center">
               <Link to="/">首页</Link>
               <span></span>
               <Link to="/about">关于我们</Link>
               <span></span>
-              <a href="http://bj-zlb.oss-cn-beijing.aliyuncs.com/static_html/sdkl/agreement.html">
+              <a href="http://bj-zlb.oss-cn-beijing.aliyuncs.com/static_html/llk/agreement.html">
                 服务协议
               </a>
               <span></span>
-              <a href="http://bj-zlb.oss-cn-beijing.aliyuncs.com/static_html/sdkl/privacy_policy.html">
+              <a href="http://bj-zlb.oss-cn-beijing.aliyuncs.com/static_html/llk/privacy_policy.html">
                 隐私政策
               </a>
             </div>
           </div>
           <div className="copyright">
-            Copyright(C)2020-2021 深圳市灿星佳业信息科技有限公司
+            Copyright(C)2020-2021 北京悦玺清风文化传媒有限公司
           </div>
         </div>
       </div>
